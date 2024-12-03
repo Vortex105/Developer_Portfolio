@@ -1188,7 +1188,7 @@ footer i {
     }
 
     .about-main-text {
-        width: 400px !important;
+        width: 300px !important;
     }
     .about-img {
         display: flex;
@@ -1205,7 +1205,7 @@ footer i {
         align-items: center;
         gap: 1rem;
     }
-    .skills,.works, .blog, .contact {
+    .skills,.works, .blog{
         padding: var(--base-padding) calc(var(--base-padding) * 2)
     }
     .work-main {
