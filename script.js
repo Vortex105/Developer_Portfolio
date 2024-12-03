@@ -1,15 +1,15 @@
 const images = [
     {
         image: "img/Hexashop.png",
-        imgLink: "C:/Users/DELL/Documents/Html projects/SELF-MADE/HEXASHOP CLONE/index.html"
+        imgLink: "https://github.com/Vortex105/Hexashop.git"
     },
     {
         image: "img/Cyborg.png",
-        imgLink: "C:/Users/DELL/Documents/Html projects/SELF-MADE/Cyborg Gaming/index.html"
+        imgLink: "https://github.com/Vortex105/Tailwind-Lesson-01-Log-In-Form.git"
     },
     {
-        image: "img/Tour-site.png",
-        imgLink: "C:/Users/DELL/Documents/Html projects/SELF-MADE/Tourism Site/index.html"
+        image: "Tour-site.png",
+        imgLink: "https://github.com/Vortex105/Horizon-Chasers-Tours-website.git"
     },
 ]
 
