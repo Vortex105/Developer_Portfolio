@@ -1228,6 +1228,7 @@ footer i {
         margin-top: calc(var(--margin-2) * 3);
         padding: 0 var(--base-padding);
         width: calc(100vw - 15%);
+        align-items: flex-start;
     }
     footer {
         display: flex;
@@ -1238,10 +1239,10 @@ footer i {
         align-items: center;
         gap: 1.5rem;
     }
-    
+
     .form-details {
         display: flex;
-        gap: 1rem;
+        flex-direction: column;
     }
 
     .contact-form .message {
@@ -1249,9 +1250,8 @@ footer i {
         flex-direction: column;
         align-self: flex-start;
         margin-top: var(--base-margin);
-        width: 90%;
     }
-    .contact-form .message input {
-        width: 80%;
+    .skills-box:first-child p {
+        font-size: 0.8rem;
     }
 }

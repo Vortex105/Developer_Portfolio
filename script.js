@@ -6,11 +6,7 @@ const images = [
     {
         image: "img/Cyborg.png",
         imgLink: "https://github.com/Vortex105/Tailwind-Lesson-01-Log-In-Form.git"
-    },
-    {
-        image: "Tour-site.png",
-        imgLink: "https://github.com/Vortex105/Horizon-Chasers-Tours-website.git"
-    },
+    }
 ]
 
 let masterNum = 0;
