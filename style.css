@@ -1237,4 +1237,20 @@ footer i {
         align-items: center;
         gap: 1.5rem;
     }
+    
+    .form-details {
+        display: flex;
+        gap: 1rem;
+    }
+
+    .contact-form .message {
+        display: flex;
+        flex-direction: column;
+        align-self: flex-start;
+        margin-top: var(--base-margin);
+        width: 90%;
+    }
+    .contact-form .message input {
+        width: 80%;
+    }
 }
