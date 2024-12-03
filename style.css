@@ -1205,7 +1205,7 @@ footer i {
         align-items: center;
         gap: 1rem;
     }
-    .skills,.works, .blog{
+    .skills,.works, .blog, .contact {
         padding: var(--base-padding) calc(var(--base-padding) * 2)
     }
     .work-main {
@@ -1226,6 +1226,7 @@ footer i {
     }
     .contact-form {
         margin-top: calc(var(--margin-2) * 3);
+        padding: 0 var(--base-padding);
     }
     footer {
         display: flex;
